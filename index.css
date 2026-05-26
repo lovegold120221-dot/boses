@@ -13,6 +13,8 @@
       --text-main: #ffffff;
       --text-muted: #888888;
       --text-label: #aaaaaa;
+      --surface-color: #151515;
+      --text-color: #ffffff;
       
       /* New Lime Theme Overrides */
       --accent-primary: #cbfb45; /* Bright Lime Green */

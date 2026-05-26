@@ -41,25 +41,16 @@ export default function ErrorScreen() {
   }
 
   if (!error) {
-    return <div style={{ display: 'none' }} />;
+    return <div className="hidden" />;
   }
 
   return (
     <div className="error-screen">
-      <div
-        style={{
-          fontSize: 48,
-        }}
-      >
+      <div className="text-[48px]">
         💔
       </div>
       <div
-        className="error-message-container"
-        style={{
-          fontSize: 22,
-          lineHeight: 1.2,
-          opacity: 0.5,
-        }}
+        className="error-message-container text-[22px] leading-[1.2] opacity-50"
       >
         {errorMessage}
       </div>
@@ -75,12 +66,7 @@ export default function ErrorScreen() {
       ) : null}
       {rawMessage ? (
         <div
-          className="error-raw-message-container"
-          style={{
-            fontSize: 15,
-            lineHeight: 1.2,
-            opacity: 0.4,
-          }}
+          className="error-raw-message-container text-[15px] leading-[1.2] opacity-40"
         >
           {rawMessage}
         </div>

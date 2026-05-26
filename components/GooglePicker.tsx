@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import { getAccessToken } from '../lib/firebase';
-import firebaseConfig from '../firebase-applet-config.json';
 import { useLiveAPIContext } from '../contexts/LiveAPIContext';
 
 declare const google: any;
@@ -37,7 +36,7 @@ export const GooglePicker = () => {
         .addView(google.picker.ViewId.DOCS)
         .addView(google.picker.ViewId.FOLDERS)
         .setOAuthToken(token)
-        .setDeveloperKey(firebaseConfig.apiKey)
+        .setDeveloperKey(import.meta.env.VITE_FIREBASE_API_KEY)
         .setCallback((data: any) => {
           if (data.action === google.picker.Action.PICKED) {
             const documents = data.docs.map((doc: any) => ({

@@ -25,14 +25,12 @@ const LiveAPIContext = createContext<UseLiveApiResults | undefined>(undefined);
 
 export type LiveAPIProviderProps = {
   children: ReactNode;
-  apiKey: string;
 };
 
 export const LiveAPIProvider: FC<LiveAPIProviderProps> = ({
-  apiKey,
   children,
 }) => {
-  const liveAPI = useLiveApi({ apiKey });
+  const liveAPI = useLiveApi({ apiKey: import.meta.env.VITE_GEMINI_API_KEY });
 
   return (
     <LiveAPIContext.Provider value={liveAPI}>

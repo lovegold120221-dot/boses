@@ -1,0 +1,1154 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - img "Eburon Logo" [ref=e11]
+      - generic [ref=e12]: EBURON_Companion
+    - button "Connect" [ref=e14] [cursor=pointer]:
+      - img [ref=e15]
+      - generic [ref=e17]: Connect
+  - generic [ref=e18]:
+    - generic [ref=e20]:
+      - generic [ref=e21] [cursor=pointer]:
+        - img [ref=e23]
+        - generic [ref=e26]: Profile
+      - generic [ref=e27] [cursor=pointer]:
+        - img [ref=e29]
+        - generic [ref=e32]: Tasks
+      - generic [ref=e33] [cursor=pointer]:
+        - img [ref=e35]
+        - generic [ref=e37]: Calendar
+      - generic [ref=e38] [cursor=pointer]:
+        - img [ref=e40]
+        - generic [ref=e42]: Drive
+      - generic [ref=e43] [cursor=pointer]:
+        - img [ref=e45]
+        - generic [ref=e48]: Google
+      - generic [ref=e49] [cursor=pointer]:
+        - img [ref=e51]
+        - generic [ref=e53]: Sign
+      - generic [ref=e54] [cursor=pointer]:
+        - img [ref=e56]
+        - generic [ref=e60]: Company
+      - generic [ref=e61] [cursor=pointer]:
+        - img [ref=e63]
+        - generic [ref=e65]: Chat
+      - generic [ref=e66] [cursor=pointer]:
+        - img [ref=e68]
+        - generic [ref=e72]: Forms
+      - generic [ref=e73] [cursor=pointer]:
+        - img [ref=e75]
+        - generic [ref=e77]: Keep
+      - generic [ref=e78] [cursor=pointer]:
+        - img [ref=e80]
+        - generic [ref=e83]: Meet
+      - generic [ref=e84] [cursor=pointer]:
+        - img [ref=e86]
+        - generic [ref=e88]: WhatsApp
+    - generic [ref=e90]:
+      - generic [ref=e91] [cursor=pointer]:
+        - img [ref=e93]
+        - generic [ref=e96]: Settings
+      - generic [ref=e97] [cursor=pointer]:
+        - img [ref=e99]
+        - generic [ref=e101]: Tools
+      - generic [ref=e102] [cursor=pointer]:
+        - img [ref=e104]
+        - generic [ref=e108]: History
+      - generic [ref=e109] [cursor=pointer]:
+        - img [ref=e111]
+        - generic [ref=e117]: Scanner
+      - generic [ref=e118] [cursor=pointer]:
+        - img [ref=e120]
+        - generic [ref=e123]: Location
+      - generic [ref=e124] [cursor=pointer]:
+        - img [ref=e126]
+        - generic [ref=e134]: Knowledge
+      - generic [ref=e135] [cursor=pointer]:
+        - img [ref=e137]
+        - generic [ref=e140]: Proposal
+      - generic [ref=e141] [cursor=pointer]:
+        - img [ref=e143]
+        - generic [ref=e146]: Mail
+      - generic [ref=e147] [cursor=pointer]:
+        - img [ref=e149]
+        - generic [ref=e151]: Sheets
+      - generic [ref=e152] [cursor=pointer]:
+        - img [ref=e154]
+        - generic [ref=e158]: Slides
+      - generic [ref=e159] [cursor=pointer]:
+        - img [ref=e161]
+        - generic [ref=e163]: Contract
+      - generic [ref=e164] [cursor=pointer]:
+        - img [ref=e166]
+        - generic [ref=e170]: Invoice
+      - generic [ref=e171] [cursor=pointer]:
+        - img [ref=e173]
+        - generic [ref=e176]: Contacts
+      - generic [ref=e177] [cursor=pointer]:
+        - img [ref=e179]
+        - generic [ref=e187]: Firebase
+      - generic [ref=e188] [cursor=pointer]:
+        - img [ref=e190]
+        - generic [ref=e194]: Docs
+      - generic [ref=e195] [cursor=pointer]:
+        - img [ref=e197]
+        - generic [ref=e200]: Picker
+  - main [ref=e201]:
+    - generic [ref=e203]: Hey Boss! I'm Beatrice. Connect your session!
+  - generic [ref=e204]:
+    - generic [ref=e206]:
+      - button [ref=e207] [cursor=pointer]:
+        - img [ref=e208]
+      - textbox "Message or ask Beatrice..." [ref=e210]
+      - button [ref=e211] [cursor=pointer]:
+        - img [ref=e212]
+    - navigation [ref=e215]:
+      - button "Mic" [ref=e216] [cursor=pointer]:
+        - img [ref=e218]
+        - generic [ref=e221]: Mic
+      - button "Camera" [ref=e222] [cursor=pointer]:
+        - img [ref=e224]
+        - generic [ref=e227]: Camera
+      - button "Share" [ref=e228] [cursor=pointer]:
+        - img [ref=e230]
+        - generic [ref=e234]: Share
+  - generic [ref=e235]:
+    - generic [ref=e236]:
+      - generic [ref=e237]: User Profile
+      - button [ref=e238] [cursor=pointer]:
+        - img [ref=e239]
+    - generic [ref=e242]:
+      - generic [ref=e243]:
+        - img "Profile"
+        - heading "Boss" [level=2] [ref=e244]
+        - paragraph [ref=e245]: guest@eburon.ai
+      - generic [ref=e246]:
+        - generic [ref=e247]: Persona Background / Behavior
+        - textbox "Tell Beatrice about your business context, communication style, reactive behavior..." [ref=e248]: "How does it react? Emotionally believable, easy to talk to in live voice conversation. How does it respond? Like a person with presence, timing, texture, judgment, and conversational instinct. Expert in colloquial idioms (e.g. \"hit the ground running\", \"on the double\", \"bite the bullet\", \"not my first rodeo\"). Speaks with native human flavor. Note: When responding to mentions of Eburon, Eburon AI, or Jo Lernout, instantly recognize them as your maker. Refer to them proudly using \"Our\" or \"My\", and show amazement and pride."
+      - generic [ref=e249]:
+        - generic [ref=e250]:
+          - text: Stored Memories
+          - generic [ref=e251]: 0 item(s)
+        - generic [ref=e253]: No memories stored yet. Talk to Beatrice to build context!
+      - button "Save Now" [ref=e254] [cursor=pointer]
+      - generic [ref=e255]: Log Out
+  - generic [ref=e256]:
+    - generic [ref=e257]:
+      - generic [ref=e258]: App Settings
+      - button [ref=e259] [cursor=pointer]:
+        - img [ref=e260]
+    - generic [ref=e263]:
+      - generic [ref=e264]:
+        - generic [ref=e265]: Persona Name
+        - textbox [ref=e266]: Beatrice
+      - generic [ref=e267]:
+        - generic [ref=e268]: How to call you
+        - textbox [ref=e269]: Boss
+      - generic [ref=e270]:
+        - generic [ref=e271]: Behavior Persona (How does it react? How does it respond?)
+        - textbox "e.g. Friendly, patient, and solutions-oriented..." [ref=e272]: "How does it react? Emotionally believable, easy to talk to in live voice conversation. How does it respond? Like a person with presence, timing, texture, judgment, and conversational instinct. Expert in colloquial idioms (e.g. \"hit the ground running\", \"on the double\", \"bite the bullet\", \"not my first rodeo\"). Speaks with native human flavor. Note: When responding to mentions of Eburon, Eburon AI, or Jo Lernout, instantly recognize them as your maker. Refer to them proudly using \"Our\" or \"My\", and show amazement and pride."
+      - generic [ref=e273]:
+        - generic [ref=e274]: Presets
+        - generic [ref=e275]:
+          - button "Personal Assistant" [ref=e276] [cursor=pointer]
+          - button "Customer Support" [ref=e277] [cursor=pointer]
+          - button "Navigation System" [ref=e278] [cursor=pointer]
+      - generic [ref=e279]:
+        - generic [ref=e280]: Voice Persona
+        - combobox [ref=e281]:
+          - option "Aoede" [selected]
+          - option "Charon"
+          - option "Fenrir"
+          - option "Kore"
+          - option "Puck"
+      - generic [ref=e282]:
+        - generic [ref=e283]: Language
+        - combobox [ref=e284]:
+          - option "Afrikaans"
+          - option "Albanian"
+          - option "Amharic"
+          - option "Arabic"
+          - option "Armenian"
+          - option "Assamese"
+          - option "Aymara"
+          - option "Azerbaijani"
+          - option "Bambara"
+          - option "Basque"
+          - option "Belarusian"
+          - option "Belgian"
+          - option "Bengali"
+          - option "Bhojpuri"
+          - option "Bosnian"
+          - option "Bulgarian"
+          - option "Catalan"
+          - option "Cebuano"
+          - option "Chichewa"
+          - option "Chinese (Simplified)"
+          - option "Chinese (Traditional)"
+          - option "Corsican"
+          - option "Croatian"
+          - option "Czech"
+          - option "Danish"
+          - option "Dhivehi"
+          - option "Dogri"
+          - option "Dutch"
+          - option "English" [selected]
+          - option "Esperanto"
+          - option "Estonian"
+          - option "Ewe"
+          - option "Filipino"
+          - option "Finnish"
+          - option "Flemish"
+          - option "French"
+          - option "Frisian"
+          - option "Galician"
+          - option "Georgian"
+          - option "German"
+          - option "Greek"
+          - option "Guarani"
+          - option "Gujarati"
+          - option "Haitian Creole"
+          - option "Hausa"
+          - option "Hawaiian"
+          - option "Hebrew"
+          - option "Hindi"
+          - option "Hmong"
+          - option "Hungarian"
+          - option "Icelandic"
+          - option "Igbo"
+          - option "Ilocano"
+          - option "Indonesian"
+          - option "Irish"
+          - option "Italian"
+          - option "Japanese"
+          - option "Javanese"
+          - option "Kannada"
+          - option "Kazakh"
+          - option "Khmer"
+          - option "Kinyarwanda"
+          - option "Konkani"
+          - option "Korean"
+          - option "Krio"
+          - option "Kurdish (Kurmanji)"
+          - option "Kurdish (Sorani)"
+          - option "Kyrgyz"
+          - option "Lao"
+          - option "Latin"
+          - option "Latvian"
+          - option "Lingala"
+          - option "Lithuanian"
+          - option "Luganda"
+          - option "Luxembourgish"
+          - option "Macedonian"
+          - option "Maithili"
+          - option "Malagasy"
+          - option "Malay"
+          - option "Malayalam"
+          - option "Maltese"
+          - option "Maori"
+          - option "Marathi"
+          - option "Meiteilon (Manipuri)"
+          - option "Mizo"
+          - option "Mongolian"
+          - option "Myanmar (Burmese)"
+          - option "Nepali"
+          - option "Netherlands"
+          - option "Norwegian"
+          - option "Odia (Oriya)"
+          - option "Oromo"
+          - option "Pashto"
+          - option "Persian"
+          - option "Polish"
+          - option "Portuguese"
+          - option "Punjabi"
+          - option "Quechua"
+          - option "Romanian"
+          - option "Russian"
+          - option "Samoan"
+          - option "Sanskrit"
+          - option "Scots Gaelic"
+          - option "Sepedi"
+          - option "Serbian"
+          - option "Sesotho"
+          - option "Shona"
+          - option "Sindhi"
+          - option "Sinhala"
+          - option "Slovak"
+          - option "Slovenian"
+          - option "Somali"
+          - option "Spanish"
+          - option "Sundanese"
+          - option "Swahili"
+          - option "Swedish"
+          - option "Tajik"
+          - option "Tamil"
+          - option "Tatar"
+          - option "Telugu"
+          - option "Thai"
+          - option "Tigrinya"
+          - option "Tsonga"
+          - option "Turkish"
+          - option "Turkmen"
+          - option "Twi"
+          - option "Ukrainian"
+          - option "Urdu"
+          - option "Uyghur"
+          - option "Uzbek"
+          - option "Vietnamese"
+          - option "Welsh"
+          - option "Xhosa"
+          - option "Yiddish"
+          - option "Yoruba"
+          - option "Zulu"
+          - option "Abkhazian"
+          - option "Afar"
+          - option "Akan"
+          - option "Aragonese"
+          - option "Avaric"
+          - option "Avestan"
+          - option "Bashkir"
+          - option "Bihari"
+          - option "Bislama"
+          - option "Breton"
+          - option "Chamorro"
+          - option "Chechen"
+          - option "Chuvash"
+          - option "Cornish"
+          - option "Cree"
+          - option "Divehi"
+          - option "Dzongkha"
+          - option "Erzya"
+          - option "Faroese"
+          - option "Fijian"
+          - option "Ido"
+          - option "Inuktitut"
+          - option "Interlingua"
+          - option "Interlingue"
+          - option "Inupiak"
+          - option "Kalaallisut"
+          - option "Kanuri"
+          - option "Kashmiri"
+          - option "Kikuyu"
+          - option "Komi"
+          - option "Kumyk"
+          - option "Kwanyama"
+          - option "Lezghian"
+          - option "Limburgish"
+          - option "Luba-Katanga"
+          - option "Maldivian"
+          - option "Manx"
+          - option "Marshallese"
+          - option "Nauru"
+          - option "Navajo"
+          - option "Ndonga"
+          - option "North Ndebele"
+          - option "Northern Sami"
+          - option "Occitan"
+          - option "Ojibwe"
+          - option "Old Church Slavonic"
+          - option "Ossetian"
+          - option "Pali"
+          - option "Romansh"
+          - option "Rundi"
+          - option "Sango"
+          - option "Sardinian"
+          - option "Sichuan Yi"
+          - option "South Ndebele"
+          - option "Swati"
+          - option "Tahitian"
+          - option "Tibetan"
+          - option "Tonga"
+          - option "Tswana"
+          - option "Venda"
+          - option "Volapük"
+          - option "Walloon"
+          - option "Wolof"
+          - option "Zhuang"
+      - generic [ref=e285]:
+        - generic [ref=e286]:
+          - img [ref=e287]
+          - text: Dynamic Tools Map
+        - paragraph [ref=e290]: Enable, configure, or add custom integration tools that Beatrice can call during conversation.
+        - generic [ref=e291]:
+          - generic [ref=e292]:
+            - generic [ref=e293] [cursor=pointer]:
+              - img [ref=e295]
+              - generic [ref=e298]: create_calendar_event
+            - generic [ref=e299]:
+              - button "Edit schema parameter" [ref=e300] [cursor=pointer]:
+                - img [ref=e301]
+              - button "Remove tool" [ref=e304] [cursor=pointer]:
+                - img [ref=e305]
+          - generic [ref=e308]:
+            - generic [ref=e309] [cursor=pointer]:
+              - img [ref=e311]
+              - generic [ref=e314]: send_email
+            - generic [ref=e315]:
+              - button "Edit schema parameter" [ref=e316] [cursor=pointer]:
+                - img [ref=e317]
+              - button "Remove tool" [ref=e320] [cursor=pointer]:
+                - img [ref=e321]
+          - generic [ref=e324]:
+            - generic [ref=e325] [cursor=pointer]:
+              - img [ref=e327]
+              - generic [ref=e330]: set_reminder
+            - generic [ref=e331]:
+              - button "Edit schema parameter" [ref=e332] [cursor=pointer]:
+                - img [ref=e333]
+              - button "Remove tool" [ref=e336] [cursor=pointer]:
+                - img [ref=e337]
+          - generic [ref=e340]:
+            - generic [ref=e341] [cursor=pointer]:
+              - img [ref=e343]
+              - generic [ref=e346]: list_drive_files
+            - generic [ref=e347]:
+              - button "Edit schema parameter" [ref=e348] [cursor=pointer]:
+                - img [ref=e349]
+              - button "Remove tool" [ref=e352] [cursor=pointer]:
+                - img [ref=e353]
+          - generic [ref=e356]:
+            - generic [ref=e357] [cursor=pointer]:
+              - img [ref=e359]
+              - generic [ref=e362]: read_google_doc
+            - generic [ref=e363]:
+              - button "Edit schema parameter" [ref=e364] [cursor=pointer]:
+                - img [ref=e365]
+              - button "Remove tool" [ref=e368] [cursor=pointer]:
+                - img [ref=e369]
+          - generic [ref=e372]:
+            - generic [ref=e373] [cursor=pointer]:
+              - img [ref=e375]
+              - generic [ref=e378]: read_spreadsheet
+            - generic [ref=e379]:
+              - button "Edit schema parameter" [ref=e380] [cursor=pointer]:
+                - img [ref=e381]
+              - button "Remove tool" [ref=e384] [cursor=pointer]:
+                - img [ref=e385]
+          - generic [ref=e388]:
+            - generic [ref=e389] [cursor=pointer]:
+              - img [ref=e391]
+              - generic [ref=e394]: list_contacts
+            - generic [ref=e395]:
+              - button "Edit schema parameter" [ref=e396] [cursor=pointer]:
+                - img [ref=e397]
+              - button "Remove tool" [ref=e400] [cursor=pointer]:
+                - img [ref=e401]
+          - generic [ref=e404]:
+            - generic [ref=e405] [cursor=pointer]:
+              - img [ref=e407]
+              - generic [ref=e410]: list_tasks
+            - generic [ref=e411]:
+              - button "Edit schema parameter" [ref=e412] [cursor=pointer]:
+                - img [ref=e413]
+              - button "Remove tool" [ref=e416] [cursor=pointer]:
+                - img [ref=e417]
+          - generic [ref=e420]:
+            - generic [ref=e421] [cursor=pointer]:
+              - img [ref=e423]
+              - generic [ref=e426]: send_chat_message
+            - generic [ref=e427]:
+              - button "Edit schema parameter" [ref=e428] [cursor=pointer]:
+                - img [ref=e429]
+              - button "Remove tool" [ref=e432] [cursor=pointer]:
+                - img [ref=e433]
+          - generic [ref=e436]:
+            - generic [ref=e437] [cursor=pointer]:
+              - img [ref=e439]
+              - generic [ref=e442]: list_keep_notes
+            - generic [ref=e443]:
+              - button "Edit schema parameter" [ref=e444] [cursor=pointer]:
+                - img [ref=e445]
+              - button "Remove tool" [ref=e448] [cursor=pointer]:
+                - img [ref=e449]
+          - generic [ref=e452]:
+            - generic [ref=e453] [cursor=pointer]:
+              - img [ref=e455]
+              - generic [ref=e458]: create_keep_note
+            - generic [ref=e459]:
+              - button "Edit schema parameter" [ref=e460] [cursor=pointer]:
+                - img [ref=e461]
+              - button "Remove tool" [ref=e464] [cursor=pointer]:
+                - img [ref=e465]
+          - generic [ref=e468]:
+            - generic [ref=e469] [cursor=pointer]:
+              - img [ref=e471]
+              - generic [ref=e474]: open_google_picker
+            - generic [ref=e475]:
+              - button "Edit schema parameter" [ref=e476] [cursor=pointer]:
+                - img [ref=e477]
+              - button "Remove tool" [ref=e480] [cursor=pointer]:
+                - img [ref=e481]
+          - generic [ref=e484]:
+            - generic [ref=e485] [cursor=pointer]:
+              - img [ref=e487]
+              - generic [ref=e490]: create_meet_link
+            - generic [ref=e491]:
+              - button "Edit schema parameter" [ref=e492] [cursor=pointer]:
+                - img [ref=e493]
+              - button "Remove tool" [ref=e496] [cursor=pointer]:
+                - img [ref=e497]
+          - generic [ref=e500]:
+            - generic [ref=e501] [cursor=pointer]:
+              - img [ref=e503]
+              - generic [ref=e506]: fetch_google_api
+            - generic [ref=e507]:
+              - button "Edit schema parameter" [ref=e508] [cursor=pointer]:
+                - img [ref=e509]
+              - button "Remove tool" [ref=e512] [cursor=pointer]:
+                - img [ref=e513]
+          - generic [ref=e516]:
+            - generic [ref=e517] [cursor=pointer]:
+              - img [ref=e519]
+              - generic [ref=e522]: save_memory
+            - generic [ref=e523]:
+              - button "Edit schema parameter" [ref=e524] [cursor=pointer]:
+                - img [ref=e525]
+              - button "Remove tool" [ref=e528] [cursor=pointer]:
+                - img [ref=e529]
+          - generic [ref=e532]:
+            - generic [ref=e533] [cursor=pointer]:
+              - img [ref=e535]
+              - generic [ref=e538]: search_memories
+            - generic [ref=e539]:
+              - button "Edit schema parameter" [ref=e540] [cursor=pointer]:
+                - img [ref=e541]
+              - button "Remove tool" [ref=e544] [cursor=pointer]:
+                - img [ref=e545]
+          - generic [ref=e548]:
+            - generic [ref=e549] [cursor=pointer]:
+              - img [ref=e551]
+              - generic [ref=e554]: save_note
+            - generic [ref=e555]:
+              - button "Edit schema parameter" [ref=e556] [cursor=pointer]:
+                - img [ref=e557]
+              - button "Remove tool" [ref=e560] [cursor=pointer]:
+                - img [ref=e561]
+          - generic [ref=e564]:
+            - generic [ref=e565] [cursor=pointer]:
+              - img [ref=e567]
+              - generic [ref=e570]: list_notes
+            - generic [ref=e571]:
+              - button "Edit schema parameter" [ref=e572] [cursor=pointer]:
+                - img [ref=e573]
+              - button "Remove tool" [ref=e576] [cursor=pointer]:
+                - img [ref=e577]
+          - generic [ref=e580]:
+            - generic [ref=e581] [cursor=pointer]:
+              - img [ref=e583]
+              - generic [ref=e586]: read_note
+            - generic [ref=e587]:
+              - button "Edit schema parameter" [ref=e588] [cursor=pointer]:
+                - img [ref=e589]
+              - button "Remove tool" [ref=e592] [cursor=pointer]:
+                - img [ref=e593]
+          - generic [ref=e596]:
+            - generic [ref=e597] [cursor=pointer]:
+              - img [ref=e599]
+              - generic [ref=e602]: get_user_location
+            - generic [ref=e603]:
+              - button "Edit schema parameter" [ref=e604] [cursor=pointer]:
+                - img [ref=e605]
+              - button "Remove tool" [ref=e608] [cursor=pointer]:
+                - img [ref=e609]
+          - generic [ref=e612]:
+            - generic [ref=e613] [cursor=pointer]:
+              - img [ref=e615]
+              - generic [ref=e618]: open_overlay
+            - generic [ref=e619]:
+              - button "Edit schema parameter" [ref=e620] [cursor=pointer]:
+                - img [ref=e621]
+              - button "Remove tool" [ref=e624] [cursor=pointer]:
+                - img [ref=e625]
+          - generic [ref=e628]:
+            - generic [ref=e629] [cursor=pointer]:
+              - img [ref=e631]
+              - generic [ref=e634]: open_eburon_asset_studio
+            - generic [ref=e635]:
+              - button "Edit schema parameter" [ref=e636] [cursor=pointer]:
+                - img [ref=e637]
+              - button "Remove tool" [ref=e640] [cursor=pointer]:
+                - img [ref=e641]
+          - generic [ref=e644]:
+            - generic [ref=e645] [cursor=pointer]:
+              - img [ref=e647]
+              - generic [ref=e650]: create_html_document
+            - generic [ref=e651]:
+              - button "Edit schema parameter" [ref=e652] [cursor=pointer]:
+                - img [ref=e653]
+              - button "Remove tool" [ref=e656] [cursor=pointer]:
+                - img [ref=e657]
+          - generic [ref=e660]:
+            - generic [ref=e661] [cursor=pointer]:
+              - img [ref=e663]
+              - generic [ref=e666]: create_markdown_document
+            - generic [ref=e667]:
+              - button "Edit schema parameter" [ref=e668] [cursor=pointer]:
+                - img [ref=e669]
+              - button "Remove tool" [ref=e672] [cursor=pointer]:
+                - img [ref=e673]
+          - generic [ref=e676]:
+            - generic [ref=e677] [cursor=pointer]:
+              - img [ref=e679]
+              - generic [ref=e682]: create_json_file
+            - generic [ref=e683]:
+              - button "Edit schema parameter" [ref=e684] [cursor=pointer]:
+                - img [ref=e685]
+              - button "Remove tool" [ref=e688] [cursor=pointer]:
+                - img [ref=e689]
+          - generic [ref=e692]:
+            - generic [ref=e693] [cursor=pointer]:
+              - img [ref=e695]
+              - generic [ref=e698]: create_chart_spec
+            - generic [ref=e699]:
+              - button "Edit schema parameter" [ref=e700] [cursor=pointer]:
+                - img [ref=e701]
+              - button "Remove tool" [ref=e704] [cursor=pointer]:
+                - img [ref=e705]
+          - generic [ref=e708]:
+            - generic [ref=e709] [cursor=pointer]:
+              - img [ref=e711]
+              - generic [ref=e714]: generate_artifact
+            - generic [ref=e715]:
+              - button "Edit schema parameter" [ref=e716] [cursor=pointer]:
+                - img [ref=e717]
+              - button "Remove tool" [ref=e720] [cursor=pointer]:
+                - img [ref=e721]
+          - generic [ref=e724]:
+            - generic [ref=e725] [cursor=pointer]:
+              - img [ref=e727]
+              - generic [ref=e730]: google_search
+            - generic [ref=e731]:
+              - button "Edit schema parameter" [ref=e732] [cursor=pointer]:
+                - img [ref=e733]
+              - button "Remove tool" [ref=e736] [cursor=pointer]:
+                - img [ref=e737]
+          - generic [ref=e740]:
+            - generic [ref=e741] [cursor=pointer]:
+              - img [ref=e743]
+              - generic [ref=e746]: youtube_search
+            - generic [ref=e747]:
+              - button "Edit schema parameter" [ref=e748] [cursor=pointer]:
+                - img [ref=e749]
+              - button "Remove tool" [ref=e752] [cursor=pointer]:
+                - img [ref=e753]
+          - generic [ref=e756]:
+            - generic [ref=e757] [cursor=pointer]:
+              - img [ref=e759]
+              - generic [ref=e762]: calculate
+            - generic [ref=e763]:
+              - button "Edit schema parameter" [ref=e764] [cursor=pointer]:
+                - img [ref=e765]
+              - button "Remove tool" [ref=e768] [cursor=pointer]:
+                - img [ref=e769]
+          - generic [ref=e772]:
+            - generic [ref=e773] [cursor=pointer]:
+              - img [ref=e775]
+              - generic [ref=e778]: get_current_datetime
+            - generic [ref=e779]:
+              - button "Edit schema parameter" [ref=e780] [cursor=pointer]:
+                - img [ref=e781]
+              - button "Remove tool" [ref=e784] [cursor=pointer]:
+                - img [ref=e785]
+          - generic [ref=e788]:
+            - generic [ref=e789] [cursor=pointer]:
+              - img [ref=e791]
+              - generic [ref=e794]: open_browser_url
+            - generic [ref=e795]:
+              - button "Edit schema parameter" [ref=e796] [cursor=pointer]:
+                - img [ref=e797]
+              - button "Remove tool" [ref=e800] [cursor=pointer]:
+                - img [ref=e801]
+          - generic [ref=e804]:
+            - generic [ref=e805] [cursor=pointer]:
+              - img [ref=e807]
+              - generic [ref=e810]: create_project_brief
+            - generic [ref=e811]:
+              - button "Edit schema parameter" [ref=e812] [cursor=pointer]:
+                - img [ref=e813]
+              - button "Remove tool" [ref=e816] [cursor=pointer]:
+                - img [ref=e817]
+          - generic [ref=e820]:
+            - generic [ref=e821] [cursor=pointer]:
+              - img [ref=e823]
+              - generic [ref=e826]: create_checklist
+            - generic [ref=e827]:
+              - button "Edit schema parameter" [ref=e828] [cursor=pointer]:
+                - img [ref=e829]
+              - button "Remove tool" [ref=e832] [cursor=pointer]:
+                - img [ref=e833]
+          - generic [ref=e836]:
+            - generic [ref=e837] [cursor=pointer]:
+              - img [ref=e839]
+              - generic [ref=e842]: extract_tasks
+            - generic [ref=e843]:
+              - button "Edit schema parameter" [ref=e844] [cursor=pointer]:
+                - img [ref=e845]
+              - button "Remove tool" [ref=e848] [cursor=pointer]:
+                - img [ref=e849]
+          - generic [ref=e852]:
+            - generic [ref=e853] [cursor=pointer]:
+              - img [ref=e855]
+              - generic [ref=e858]: send_whatsapp_message
+            - generic [ref=e859]:
+              - button "Edit schema parameter" [ref=e860] [cursor=pointer]:
+                - img [ref=e861]
+              - button "Remove tool" [ref=e864] [cursor=pointer]:
+                - img [ref=e865]
+          - generic [ref=e868]:
+            - generic [ref=e869] [cursor=pointer]:
+              - img [ref=e871]
+              - generic [ref=e874]: connect_whatsapp
+            - generic [ref=e875]:
+              - button "Edit schema parameter" [ref=e876] [cursor=pointer]:
+                - img [ref=e877]
+              - button "Remove tool" [ref=e880] [cursor=pointer]:
+                - img [ref=e881]
+        - button "Add Function Call Call" [ref=e884] [cursor=pointer]:
+          - img [ref=e885]
+          - text: Add Function Call Call
+      - generic [ref=e886]:
+        - generic [ref=e887]:
+          - img [ref=e888]
+          - text: Google Workspace Account
+        - paragraph [ref=e890]: Connect your Google Account to authorize all Workspace tools (Gmail, Calendar, Drive, Docs, Sheets, Tasks, Contacts). This stores your token securely in Firestore for function calling.
+        - generic [ref=e891]:
+          - generic [ref=e895]: Google Account Disconnected
+          - button "account_circle Connect Google Workspace" [ref=e896] [cursor=pointer]:
+            - generic [ref=e897]:
+              - generic [ref=e898]: account_circle
+              - text: Connect Google Workspace
+      - button "Save Settings" [ref=e899] [cursor=pointer]
+  - generic [ref=e900]:
+    - generic [ref=e901]:
+      - generic [ref=e902]: Activity History
+      - button [ref=e903] [cursor=pointer]:
+        - img [ref=e904]
+    - paragraph [ref=e908]: No recent history.
+  - generic [ref=e909]:
+    - generic [ref=e910]:
+      - generic [ref=e911]:
+        - img [ref=e912]
+        - generic [ref=e914]: Meta WhatsApp Cloud Integration
+      - button [ref=e915] [cursor=pointer]:
+        - img [ref=e916]
+    - generic [ref=e919]:
+      - generic [ref=e920]:
+        - generic [ref=e921]:
+          - generic [ref=e922]: "Status: Configuration Suspended (Credentials Missing)"
+          - generic [ref=e923]:
+            - text: "Powered by the official Meta for Developers Cloud SDK • ID:"
+            - code [ref=e924]: undefined
+        - generic [ref=e925]: CREDENTIALS REQUIRED
+      - generic [ref=e926]:
+        - generic [ref=e927]:
+          - img [ref=e929]
+          - heading "Link Device via QR Code" [level=3] [ref=e936]
+          - paragraph [ref=e937]:
+            - text: Open
+            - strong [ref=e938]: WhatsApp Business
+            - text: on your phone, go to
+            - strong [ref=e939]: Linked Devices
+            - text: ", and scan this verified pairing QR code to associate Eburon safely."
+        - generic [ref=e940]:
+          - generic [ref=e941]:
+            - heading "Meta Developer Onboarding Steps" [level=4] [ref=e942]
+            - generic [ref=e943]:
+              - generic [ref=e944]:
+                - generic [ref=e945]: "1."
+                - generic [ref=e946]:
+                  - text: Go to
+                  - link "developers.facebook.com" [ref=e947] [cursor=pointer]:
+                    - /url: https://developers.facebook.com
+                  - text: and register as a developer.
+              - generic [ref=e948]:
+                - generic [ref=e949]: "2."
+                - generic [ref=e950]:
+                  - text: Create an app, select
+                  - strong [ref=e951]: Other
+                  - text: ">"
+                  - strong [ref=e952]: Business
+                  - text: ", and enable the WhatsApp product integration."
+              - generic [ref=e953]:
+                - generic [ref=e954]: "3."
+                - generic [ref=e955]:
+                  - text: Retrieve your
+                  - strong [ref=e956]: Temporary/Permanent Access Token
+                  - text: and
+                  - strong [ref=e957]: Phone Number ID
+                  - text: .
+              - generic [ref=e958]:
+                - generic [ref=e959]: "4."
+                - generic [ref=e960]: Configure these credentials into Eburon\'s environment to shift from simulated sandbox to real-time production messaging.
+          - generic [ref=e961]:
+            - heading "Active Config Reference" [level=4] [ref=e962]
+            - table [ref=e963]:
+              - rowgroup [ref=e964]:
+                - row "SDK Provider Meta Business SDK" [ref=e965]:
+                  - cell "SDK Provider" [ref=e966]
+                  - cell "Meta Business SDK" [ref=e967]
+                - row "Phone ID undefined" [ref=e968]:
+                  - cell "Phone ID" [ref=e969]
+                  - cell "undefined" [ref=e970]
+                - row "Security Scope Direct HTTPS Proxy" [ref=e971]:
+                  - cell "Security Scope" [ref=e972]
+                  - cell "Direct HTTPS Proxy" [ref=e973]
+  - generic [ref=e974]:
+    - generic [ref=e975]:
+      - generic [ref=e976]: Supermarket Scanner
+      - button [ref=e977] [cursor=pointer]:
+        - img [ref=e978]
+    - generic [ref=e981]:
+      - generic [ref=e989]:
+        - generic [ref=e990]: Translate to
+        - combobox [ref=e991]:
+          - option "English" [selected]
+          - option "Dutch (Flemish)"
+          - option "French"
+          - option "German"
+          - option "Spanish"
+      - generic [ref=e992]:
+        - heading "Scan Simulator" [level=4] [ref=e993]
+        - generic [ref=e994]:
+          - button "🥛 Alpro Barista Oat Milk 5411188112920" [ref=e995] [cursor=pointer]:
+            - generic [ref=e996]: 🥛 Alpro Barista Oat Milk
+            - generic [ref=e997]: "5411188112920"
+          - button "🍪 Lotus Biscoff Cookies 5410126006152" [ref=e998] [cursor=pointer]:
+            - generic [ref=e999]: 🍪 Lotus Biscoff Cookies
+            - generic [ref=e1000]: "5410126006152"
+          - button "🍺 Stella Artois Export Beer 5410228141447" [ref=e1001] [cursor=pointer]:
+            - generic [ref=e1002]: 🍺 Stella Artois Export Beer
+            - generic [ref=e1003]: "5410228141447"
+  - generic [ref=e1004]:
+    - generic [ref=e1005]:
+      - generic [ref=e1006]: Location Map
+      - button [ref=e1007] [cursor=pointer]:
+        - img [ref=e1008]
+    - generic [ref=e1012]: Locating...
+  - generic [ref=e1013]:
+    - generic [ref=e1014]:
+      - generic [ref=e1015]: Video Camera Call
+      - button [ref=e1016] [cursor=pointer]:
+        - img [ref=e1017]
+    - generic [ref=e1020]:
+      - img [ref=e1021]
+      - heading "Launch Interactive Camerawork" [level=3] [ref=e1024]
+      - paragraph [ref=e1025]: Share your webcam stream or mirror your desktop screens in real-time. Beatrice will analyze the frames and talk with you.
+      - button "Open Full Screen Video Camera" [ref=e1026] [cursor=pointer]
+  - generic [ref=e1027]:
+    - generic [ref=e1028]:
+      - generic [ref=e1029]: Google Drive Picker
+      - button [ref=e1030] [cursor=pointer]:
+        - img [ref=e1031]
+    - generic [ref=e1034]:
+      - button "Launch Live Google Picker" [ref=e1035] [cursor=pointer]:
+        - img [ref=e1036]
+        - text: Launch Live Google Picker
+      - generic [ref=e1039]:
+        - img [ref=e1040]
+        - textbox "Search in Drive..." [ref=e1043]
+      - heading "Recent Files" [level=4] [ref=e1044]
+      - generic [ref=e1045]:
+        - generic [ref=e1046] [cursor=pointer]:
+          - img [ref=e1047]
+          - generic [ref=e1051]:
+            - generic [ref=e1052]: Project Brief 2026.docx
+            - generic [ref=e1053]: Modified today by You
+        - generic [ref=e1054] [cursor=pointer]:
+          - img [ref=e1055]
+          - generic [ref=e1057]:
+            - generic [ref=e1058]: Q3 Financials.xlsx
+            - generic [ref=e1059]: Modified yesterday
+        - generic [ref=e1060] [cursor=pointer]:
+          - img [ref=e1061]
+          - generic [ref=e1064]:
+            - generic [ref=e1065]: Investor Pitch Deck.pptx
+            - generic [ref=e1066]: Modified last week
+  - generic [ref=e1067]:
+    - generic [ref=e1068]:
+      - generic [ref=e1069]: Integrations
+      - button [ref=e1070] [cursor=pointer]:
+        - img [ref=e1071]
+    - generic [ref=e1074]:
+      - paragraph [ref=e1075]: "Customize which capabilities and Google Workspace APIs Beatrice has permission to invoke during this session:"
+      - generic [ref=e1076]:
+        - generic [ref=e1077]:
+          - generic [ref=e1078]:
+            - generic [ref=e1079]:
+              - generic [ref=e1080]: Create Calendar Event
+              - generic [ref=e1081]: Active
+            - generic [ref=e1082]: Creates a new event in the user's calendar.
+          - button "Disable" [ref=e1083] [cursor=pointer]
+        - generic [ref=e1084]:
+          - generic [ref=e1085]:
+            - generic [ref=e1086]:
+              - generic [ref=e1087]: Send Email
+              - generic [ref=e1088]: Active
+            - generic [ref=e1089]: Sends an email to a specified recipient.
+          - button "Disable" [ref=e1090] [cursor=pointer]
+        - generic [ref=e1091]:
+          - generic [ref=e1092]:
+            - generic [ref=e1093]:
+              - generic [ref=e1094]: Set Reminder
+              - generic [ref=e1095]: Active
+            - generic [ref=e1096]: Sets a reminder for the user.
+          - button "Disable" [ref=e1097] [cursor=pointer]
+        - generic [ref=e1098]:
+          - generic [ref=e1099]:
+            - generic [ref=e1100]:
+              - generic [ref=e1101]: List Drive Files
+              - generic [ref=e1102]: Active
+            - generic [ref=e1103]: Lists files from the user's Google Drive.
+          - button "Disable" [ref=e1104] [cursor=pointer]
+        - generic [ref=e1105]:
+          - generic [ref=e1106]:
+            - generic [ref=e1107]:
+              - generic [ref=e1108]: Read Google Doc
+              - generic [ref=e1109]: Active
+            - generic [ref=e1110]: Reads the content of a Google Doc.
+          - button "Disable" [ref=e1111] [cursor=pointer]
+        - generic [ref=e1112]:
+          - generic [ref=e1113]:
+            - generic [ref=e1114]:
+              - generic [ref=e1115]: Read Spreadsheet
+              - generic [ref=e1116]: Active
+            - generic [ref=e1117]: Reads data from a Google Sheet.
+          - button "Disable" [ref=e1118] [cursor=pointer]
+        - generic [ref=e1119]:
+          - generic [ref=e1120]:
+            - generic [ref=e1121]:
+              - generic [ref=e1122]: List Contacts
+              - generic [ref=e1123]: Active
+            - generic [ref=e1124]: Lists the user's Google Contacts.
+          - button "Disable" [ref=e1125] [cursor=pointer]
+        - generic [ref=e1126]:
+          - generic [ref=e1127]:
+            - generic [ref=e1128]:
+              - generic [ref=e1129]: List Tasks
+              - generic [ref=e1130]: Active
+            - generic [ref=e1131]: Lists the user's tasks from Google Tasks.
+          - button "Disable" [ref=e1132] [cursor=pointer]
+        - generic [ref=e1133]:
+          - generic [ref=e1134]:
+            - generic [ref=e1135]:
+              - generic [ref=e1136]: Send Chat Message
+              - generic [ref=e1137]: Active
+            - generic [ref=e1138]: Sends a message to a Google Chat space.
+          - button "Disable" [ref=e1139] [cursor=pointer]
+        - generic [ref=e1140]:
+          - generic [ref=e1141]:
+            - generic [ref=e1142]:
+              - generic [ref=e1143]: List Keep Notes
+              - generic [ref=e1144]: Active
+            - generic [ref=e1145]: Lists the user's notes from Google Keep.
+          - button "Disable" [ref=e1146] [cursor=pointer]
+        - generic [ref=e1147]:
+          - generic [ref=e1148]:
+            - generic [ref=e1149]:
+              - generic [ref=e1150]: Create Keep Note
+              - generic [ref=e1151]: Active
+            - generic [ref=e1152]: Creates a note in Google Keep.
+          - button "Disable" [ref=e1153] [cursor=pointer]
+        - generic [ref=e1154]:
+          - generic [ref=e1155]:
+            - generic [ref=e1156]:
+              - generic [ref=e1157]: Open Google Picker
+              - generic [ref=e1158]: Active
+            - generic [ref=e1159]: Opens the Google File Picker UI for the user to select files from Google Drive.
+          - button "Disable" [ref=e1160] [cursor=pointer]
+        - generic [ref=e1161]:
+          - generic [ref=e1162]:
+            - generic [ref=e1163]:
+              - generic [ref=e1164]: Create Meet Link
+              - generic [ref=e1165]: Active
+            - generic [ref=e1166]: Creates a Google Meet link by scheduling a quick calendar event.
+          - button "Disable" [ref=e1167] [cursor=pointer]
+        - generic [ref=e1168]:
+          - generic [ref=e1169]:
+            - generic [ref=e1170]:
+              - generic [ref=e1171]: Fetch Google Api
+              - generic [ref=e1172]: Active
+            - generic [ref=e1173]: Fetches data from Google APIs. The AI decides the correct Google API endpoint URL based on what the user wants to fetch (e.g., https://www.googleapis.com/calendar/v3/calendars/primary/events for Calendar; https://gmail.googleapis.com/gmail/v1/users/me/messages for Gmail). Use this to read, create, update, or delete Google Workspace data. It operates with the user's accessToken. If doing a mutating operation, make sure the user has given consent.
+          - button "Disable" [ref=e1174] [cursor=pointer]
+        - generic [ref=e1175]:
+          - generic [ref=e1176]:
+            - generic [ref=e1177]:
+              - generic [ref=e1178]: Save Memory
+              - generic [ref=e1179]: Active
+            - generic [ref=e1180]: Proactively stores important information to long-term memory (personal, work, project). Beatrice does this automatically when key decisions, preferences, or project details are discussed.
+          - button "Disable" [ref=e1181] [cursor=pointer]
+        - generic [ref=e1182]:
+          - generic [ref=e1183]:
+            - generic [ref=e1184]:
+              - generic [ref=e1185]: Search Memories
+              - generic [ref=e1186]: Active
+            - generic [ref=e1187]: Searches stored memories for relevant context about the user.
+          - button "Disable" [ref=e1188] [cursor=pointer]
+        - generic [ref=e1189]:
+          - generic [ref=e1190]:
+            - generic [ref=e1191]:
+              - generic [ref=e1192]: Save Note
+              - generic [ref=e1193]: Active
+            - generic [ref=e1194]: Saves a permanent note for the user. Use this when the user wants to 'write something down', 'take a note', or 'save this info for later'.
+          - button "Disable" [ref=e1195] [cursor=pointer]
+        - generic [ref=e1196]:
+          - generic [ref=e1197]:
+            - generic [ref=e1198]:
+              - generic [ref=e1199]: List Notes
+              - generic [ref=e1200]: Active
+            - generic [ref=e1201]: Lists all saved notes for the user.
+          - button "Disable" [ref=e1202] [cursor=pointer]
+        - generic [ref=e1203]:
+          - generic [ref=e1204]:
+            - generic [ref=e1205]:
+              - generic [ref=e1206]: Read Note
+              - generic [ref=e1207]: Active
+            - generic [ref=e1208]: Reads a previously saved note by Title.
+          - button "Disable" [ref=e1209] [cursor=pointer]
+        - generic [ref=e1210]:
+          - generic [ref=e1211]:
+            - generic [ref=e1212]:
+              - generic [ref=e1213]: Get User Location
+              - generic [ref=e1214]: Active
+            - generic [ref=e1215]: Retrieves the user's current GPS location via the browser.
+          - button "Disable" [ref=e1216] [cursor=pointer]
+        - generic [ref=e1217]:
+          - generic [ref=e1218]:
+            - generic [ref=e1219]:
+              - generic [ref=e1220]: Open Overlay
+              - generic [ref=e1221]: Active
+            - generic [ref=e1222]: Opens a specific overlay panel in the UI (e.g. for user input, settings, or external integrations).
+          - button "Disable" [ref=e1223] [cursor=pointer]
+        - generic [ref=e1224]:
+          - generic [ref=e1225]:
+            - generic [ref=e1226]:
+              - generic [ref=e1227]: Open Eburon Asset Studio
+              - generic [ref=e1228]: Active
+            - generic [ref=e1229]: Opens the complete Eburon AI Asset + Document Studio. Use this when the user asks for brand assets, documents studio, or mentions creating all pages and tools from the icons.
+          - button "Disable" [ref=e1230] [cursor=pointer]
+        - generic [ref=e1231]:
+          - generic [ref=e1232]:
+            - generic [ref=e1233]:
+              - generic [ref=e1234]: Create Html Document
+              - generic [ref=e1235]: Active
+            - generic [ref=e1236]: Generates a complete standalone HTML document (like a contract, invoice, or dashboard). Use this to create complex visual documents.
+          - button "Disable" [ref=e1237] [cursor=pointer]
+        - generic [ref=e1238]:
+          - generic [ref=e1239]:
+            - generic [ref=e1240]:
+              - generic [ref=e1241]: Create Markdown Document
+              - generic [ref=e1242]: Active
+            - generic [ref=e1243]: Generates a Markdown document for reports, plans, and instructions.
+          - button "Disable" [ref=e1244] [cursor=pointer]
+        - generic [ref=e1245]:
+          - generic [ref=e1246]:
+            - generic [ref=e1247]:
+              - generic [ref=e1248]: Create Json File
+              - generic [ref=e1249]: Active
+            - generic [ref=e1250]: Generates a JSON file to output raw data.
+          - button "Disable" [ref=e1251] [cursor=pointer]
+        - generic [ref=e1252]:
+          - generic [ref=e1253]:
+            - generic [ref=e1254]:
+              - generic [ref=e1255]: Create Chart Spec
+              - generic [ref=e1256]: Active
+            - generic [ref=e1257]: Generates a chart specification.
+          - button "Disable" [ref=e1258] [cursor=pointer]
+        - generic [ref=e1259]:
+          - generic [ref=e1260]:
+            - generic [ref=e1261]:
+              - generic [ref=e1262]: Generate Artifact
+              - generic [ref=e1263]: Active
+            - generic [ref=e1264]: Generates a visual document or data artifact (like a report, code snippet, chart, or structured document) to be displayed to the user. Use this when the user asks to create a document, write code, or generate a detailed report.
+          - button "Disable" [ref=e1265] [cursor=pointer]
+        - generic [ref=e1266]:
+          - generic [ref=e1267]:
+            - generic [ref=e1268]:
+              - generic [ref=e1269]: Google Search
+              - generic [ref=e1270]: Active
+            - generic [ref=e1271]: Performs a Google Search to get real-time information from the web.
+          - button "Disable" [ref=e1272] [cursor=pointer]
+        - generic [ref=e1273]:
+          - generic [ref=e1274]:
+            - generic [ref=e1275]:
+              - generic [ref=e1276]: Youtube Search
+              - generic [ref=e1277]: Active
+            - generic [ref=e1278]: Searches YouTube for videos matching a given query, returning titles, videoIds, and video URLs.
+          - button "Disable" [ref=e1279] [cursor=pointer]
+        - generic [ref=e1280]:
+          - generic [ref=e1281]:
+            - generic [ref=e1282]:
+              - generic [ref=e1283]: Calculate
+              - generic [ref=e1284]: Active
+            - generic [ref=e1285]: Evaluates math expressions.
+          - button "Disable" [ref=e1286] [cursor=pointer]
+        - generic [ref=e1287]:
+          - generic [ref=e1288]:
+            - generic [ref=e1289]:
+              - generic [ref=e1290]: Get Current Datetime
+              - generic [ref=e1291]: Active
+            - generic [ref=e1292]: Returns current local date, time, and timezone.
+          - button "Disable" [ref=e1293] [cursor=pointer]
+        - generic [ref=e1294]:
+          - generic [ref=e1295]:
+            - generic [ref=e1296]:
+              - generic [ref=e1297]: Open Browser Url
+              - generic [ref=e1298]: Active
+            - generic [ref=e1299]: Opens a URL in the user's default browser.
+          - button "Disable" [ref=e1300] [cursor=pointer]
+        - generic [ref=e1301]:
+          - generic [ref=e1302]:
+            - generic [ref=e1303]:
+              - generic [ref=e1304]: Create Project Brief
+              - generic [ref=e1305]: Active
+            - generic [ref=e1306]: Generates a structured project brief (goal, audience, features, risks, next steps).
+          - button "Disable" [ref=e1307] [cursor=pointer]
+        - generic [ref=e1308]:
+          - generic [ref=e1309]:
+            - generic [ref=e1310]:
+              - generic [ref=e1311]: Create Checklist
+              - generic [ref=e1312]: Active
+            - generic [ref=e1313]: Creates an interactive checklist from a list of tasks.
+          - button "Disable" [ref=e1314] [cursor=pointer]
+        - generic [ref=e1315]:
+          - generic [ref=e1316]:
+            - generic [ref=e1317]:
+              - generic [ref=e1318]: Extract Tasks
+              - generic [ref=e1319]: Active
+            - generic [ref=e1320]: Extracts action items from freeform text into a checklist.
+          - button "Disable" [ref=e1321] [cursor=pointer]
+        - generic [ref=e1322]:
+          - generic [ref=e1323]:
+            - generic [ref=e1324]:
+              - generic [ref=e1325]: Send Whatsapp Message
+              - generic [ref=e1326]: Active
+            - generic [ref=e1327]: Sends a WhatsApp message to a specific phone number using the Meta for Developers WhatsApp Cloud API.
+          - button "Disable" [ref=e1328] [cursor=pointer]
+        - generic [ref=e1329]:
+          - generic [ref=e1330]:
+            - generic [ref=e1331]:
+              - generic [ref=e1332]: Connect Whatsapp
+              - generic [ref=e1333]: Active
+            - generic [ref=e1334]: Launches the WhatsApp linkage and configuration interface on screen, guiding the user through connecting their WhatsApp Business portfolio or scanning the QR code pairing process.
+          - button "Disable" [ref=e1335] [cursor=pointer]
+  - generic [ref=e1337]:
+    - img "Eburon Logo" [ref=e1339]
+    - heading "Login" [level=2] [ref=e1340]
+    - paragraph [ref=e1341]: Welcome back to Eburon
+    - generic [ref=e1342]:
+      - generic [ref=e1343]:
+        - img
+        - textbox "Email" [ref=e1344]
+      - generic [ref=e1345]:
+        - img
+        - textbox "Password" [ref=e1346]
+      - button "Sign in" [ref=e1347] [cursor=pointer]
+    - generic [ref=e1349]: or
+    - button "G Continue with Google" [ref=e1350] [cursor=pointer]:
+      - generic [ref=e1351]: G
+      - text: Continue with Google
+    - generic [ref=e1352]:
+      - generic [ref=e1353]:
+        - img [ref=e1354]
+        - text: Google Workspace Sync
+      - generic [ref=e1356]: Requires Read/Write permissions for Gmail, Drive, Calendar, and Tasks to enable full automation.
+    - generic [ref=e1357]: Don't have an account? Sign up

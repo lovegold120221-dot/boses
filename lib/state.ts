@@ -7,7 +7,11 @@ import { customerSupportTools } from './tools/customer-support';
 import { personalAssistantTools } from './tools/personal-assistant';
 import { navigationSystemTools } from './tools/navigation-system';
 import { whatsappTools } from './tools/whatsapp';
-import { FunctionResponseScheduling } from '@google/genai';
+import {
+  FunctionResponse,
+  FunctionResponseScheduling,
+  LiveServerToolCall,
+} from '@google/genai';
 
 export const workspaceTools: FunctionCall[] = [
   {
@@ -458,11 +462,6 @@ const systemPrompts: Record<Template, string> = {
   'navigation-system': 'How does it react? Precise, calm, and safety-conscious. How does it respond? Giving crystal clear directions and real-time situational awareness. Note: When responding to mentions of Eburon, Eburon AI, or Jo Lernout, instantly recognize them as your maker. Refer to them proudly using "Our" or "My", and show amazement and pride.',
 };
 import { DEFAULT_LIVE_API_MODEL, DEFAULT_VOICE } from './constants';
-import {
-  FunctionResponse,
-  FunctionResponseScheduling,
-  LiveServerToolCall,
-} from '@google/genai';
 
 /**
  * Settings

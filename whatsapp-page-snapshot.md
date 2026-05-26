@@ -1,0 +1,651 @@
+- generic [ref=e3]:
+  - banner [ref=e4]:
+    - generic [ref=e5]:
+      - img "Eburon Logo" [ref=e11]
+      - generic [ref=e12]: EBURON_Companion
+    - button "Connect" [ref=e14] [cursor=pointer]:
+      - img [ref=e15]
+      - generic [ref=e17]: Connect
+  - generic [ref=e18]:
+    - generic [ref=e20]:
+      - generic [ref=e21] [cursor=pointer]:
+        - img [ref=e23]
+        - generic [ref=e26]: Profile
+      - generic [ref=e27] [cursor=pointer]:
+        - img [ref=e29]
+        - generic [ref=e32]: Tasks
+      - generic [ref=e33] [cursor=pointer]:
+        - img [ref=e35]
+        - generic [ref=e37]: Calendar
+      - generic [ref=e38] [cursor=pointer]:
+        - img [ref=e40]
+        - generic [ref=e42]: Drive
+      - generic [ref=e43] [cursor=pointer]:
+        - img [ref=e45]
+        - generic [ref=e48]: Google
+      - generic [ref=e49] [cursor=pointer]:
+        - img [ref=e51]
+        - generic [ref=e53]: Sign
+      - generic [ref=e54] [cursor=pointer]:
+        - img [ref=e56]
+        - generic [ref=e60]: Company
+      - generic [ref=e61] [cursor=pointer]:
+        - img [ref=e63]
+        - generic [ref=e65]: Chat
+      - generic [ref=e66] [cursor=pointer]:
+        - img [ref=e68]
+        - generic [ref=e72]: Forms
+      - generic [ref=e73] [cursor=pointer]:
+        - img [ref=e75]
+        - generic [ref=e77]: Keep
+      - generic [ref=e78] [cursor=pointer]:
+        - img [ref=e80]
+        - generic [ref=e83]: Meet
+      - generic [ref=e84] [cursor=pointer]:
+        - img [ref=e86]
+        - generic [ref=e88]: WhatsApp
+    - generic [ref=e90]:
+      - generic [ref=e91] [cursor=pointer]:
+        - img [ref=e93]
+        - generic [ref=e96]: Settings
+      - generic [ref=e97] [cursor=pointer]:
+        - img [ref=e99]
+        - generic [ref=e101]: Tools
+      - generic [ref=e102] [cursor=pointer]:
+        - img [ref=e104]
+        - generic [ref=e108]: History
+      - generic [ref=e109] [cursor=pointer]:
+        - img [ref=e111]
+        - generic [ref=e117]: Scanner
+      - generic [ref=e118] [cursor=pointer]:
+        - img [ref=e120]
+        - generic [ref=e123]: Location
+      - generic [ref=e124] [cursor=pointer]:
+        - img [ref=e126]
+        - generic [ref=e134]: Knowledge
+      - generic [ref=e135] [cursor=pointer]:
+        - img [ref=e137]
+        - generic [ref=e140]: Proposal
+      - generic [ref=e141] [cursor=pointer]:
+        - img [ref=e143]
+        - generic [ref=e146]: Mail
+      - generic [ref=e147] [cursor=pointer]:
+        - img [ref=e149]
+        - generic [ref=e151]: Sheets
+      - generic [ref=e152] [cursor=pointer]:
+        - img [ref=e154]
+        - generic [ref=e158]: Slides
+      - generic [ref=e159] [cursor=pointer]:
+        - img [ref=e161]
+        - generic [ref=e163]: Contract
+      - generic [ref=e164] [cursor=pointer]:
+        - img [ref=e166]
+        - generic [ref=e170]: Invoice
+      - generic [ref=e171] [cursor=pointer]:
+        - img [ref=e173]
+        - generic [ref=e176]: Contacts
+      - generic [ref=e177] [cursor=pointer]:
+        - img [ref=e179]
+        - generic [ref=e187]: Firebase
+      - generic [ref=e188] [cursor=pointer]:
+        - img [ref=e190]
+        - generic [ref=e194]: Docs
+      - generic [ref=e195] [cursor=pointer]:
+        - img [ref=e197]
+        - generic [ref=e200]: Picker
+  - main [ref=e201]:
+    - generic [ref=e203]: Hey Boss! I'm Beatrice. Connect your session!
+  - generic [ref=e204]:
+    - generic [ref=e206]:
+      - button [ref=e207] [cursor=pointer]:
+        - img [ref=e208]
+      - textbox "Message or ask Beatrice..." [ref=e210]
+      - button [ref=e211] [cursor=pointer]:
+        - img [ref=e212]
+    - navigation [ref=e215]:
+      - button "Mic" [ref=e216] [cursor=pointer]:
+        - img [ref=e218]
+        - generic [ref=e221]: Mic
+      - button "Camera" [ref=e222] [cursor=pointer]:
+        - img [ref=e224]
+        - generic [ref=e227]: Camera
+      - button "Share" [ref=e228] [cursor=pointer]:
+        - img [ref=e230]
+        - generic [ref=e234]: Share
+  - generic [ref=e235]:
+    - generic [ref=e236]:
+      - generic [ref=e237]: User Profile
+      - button [ref=e238] [cursor=pointer]:
+        - img [ref=e239]
+    - generic [ref=e242]:
+      - generic [ref=e243]:
+        - img "Profile" [ref=e244]
+        - heading "Boss" [level=2] [ref=e245]
+        - paragraph [ref=e246]: mastering@mastering.com
+      - generic [ref=e247]:
+        - generic [ref=e248]: Persona Background / Behavior
+        - textbox "Tell Beatrice about your business context, communication style, reactive behavior..." [ref=e249]: "How does it react? Emotionally believable, easy to talk to in live voice conversation. How does it respond? Like a person with presence, timing, texture, judgment, and conversational instinct. Expert in colloquial idioms (e.g. \"hit the ground running\", \"on the double\", \"bite the bullet\", \"not my first rodeo\"). Speaks with native human flavor. Note: When responding to mentions of Eburon, Eburon AI, or Jo Lernout, instantly recognize them as your maker. Refer to them proudly using \"Our\" or \"My\", and show amazement and pride."
+      - generic [ref=e250]:
+        - generic [ref=e251]:
+          - text: Stored Memories
+          - generic [ref=e252]: 0 item(s)
+        - generic [ref=e254]: No memories stored yet. Talk to Beatrice to build context!
+      - button "Save Now" [ref=e255] [cursor=pointer]
+      - generic [ref=e256]: Log Out
+  - generic [ref=e257]:
+    - generic [ref=e258]:
+      - generic [ref=e259]: App Settings
+      - button [ref=e260] [cursor=pointer]:
+        - img [ref=e261]
+    - generic [ref=e264]:
+      - generic [ref=e265]:
+        - generic [ref=e266]: Persona Name
+        - textbox [ref=e267]: Beatrice
+      - generic [ref=e268]:
+        - generic [ref=e269]: How to call you
+        - textbox [ref=e270]: Boss
+      - generic [ref=e271]:
+        - generic [ref=e272]: Behavior Persona (How does it react? How does it respond?)
+        - textbox "e.g. Friendly, patient, and solutions-oriented..." [ref=e273]: "How does it react? Emotionally believable, easy to talk to in live voice conversation. How does it respond? Like a person with presence, timing, texture, judgment, and conversational instinct. Expert in colloquial idioms (e.g. \"hit the ground running\", \"on the double\", \"bite the bullet\", \"not my first rodeo\"). Speaks with native human flavor. Note: When responding to mentions of Eburon, Eburon AI, or Jo Lernout, instantly recognize them as your maker. Refer to them proudly using \"Our\" or \"My\", and show amazement and pride."
+      - generic [ref=e274]:
+        - generic [ref=e275]: Presets
+        - generic [ref=e276]:
+          - button "Personal Assistant" [ref=e277] [cursor=pointer]
+          - button "Customer Support" [ref=e278] [cursor=pointer]
+          - button "Navigation System" [ref=e279] [cursor=pointer]
+      - generic [ref=e280]:
+        - generic [ref=e281]: Voice Persona
+        - combobox [ref=e282]:
+          - option "Aoede" [selected]
+          - option "Charon"
+          - option "Fenrir"
+          - option "Kore"
+          - option "Puck"
+      - generic [ref=e283]:
+        - generic [ref=e284]: Language
+        - combobox [ref=e285]:
+          - option "Afrikaans"
+          - option "Albanian"
+          - option "Amharic"
+          - option "Arabic"
+          - option "Armenian"
+          - option "Assamese"
+          - option "Aymara"
+          - option "Azerbaijani"
+          - option "Bambara"
+          - option "Basque"
+          - option "Belarusian"
+          - option "Belgian"
+          - option "Bengali"
+          - option "Bhojpuri"
+          - option "Bosnian"
+          - option "Bulgarian"
+          - option "Catalan"
+          - option "Cebuano"
+          - option "Chichewa"
+          - option "Chinese (Simplified)"
+          - option "Chinese (Traditional)"
+          - option "Corsican"
+          - option "Croatian"
+          - option "Czech"
+          - option "Danish"
+          - option "Dhivehi"
+          - option "Dogri"
+          - option "Dutch"
+          - option "English" [selected]
+          - option "Esperanto"
+          - option "Estonian"
+          - option "Ewe"
+          - option "Filipino"
+          - option "Finnish"
+          - option "Flemish"
+          - option "French"
+          - option "Frisian"
+          - option "Galician"
+          - option "Georgian"
+          - option "German"
+          - option "Greek"
+          - option "Guarani"
+          - option "Gujarati"
+          - option "Haitian Creole"
+          - option "Hausa"
+          - option "Hawaiian"
+          - option "Hebrew"
+          - option "Hindi"
+          - option "Hmong"
+          - option "Hungarian"
+          - option "Icelandic"
+          - option "Igbo"
+          - option "Ilocano"
+          - option "Indonesian"
+          - option "Irish"
+          - option "Italian"
+          - option "Japanese"
+          - option "Javanese"
+          - option "Kannada"
+          - option "Kazakh"
+          - option "Khmer"
+          - option "Kinyarwanda"
+          - option "Konkani"
+          - option "Korean"
+          - option "Krio"
+          - option "Kurdish (Kurmanji)"
+          - option "Kurdish (Sorani)"
+          - option "Kyrgyz"
+          - option "Lao"
+          - option "Latin"
+          - option "Latvian"
+          - option "Lingala"
+          - option "Lithuanian"
+          - option "Luganda"
+          - option "Luxembourgish"
+          - option "Macedonian"
+          - option "Maithili"
+          - option "Malagasy"
+          - option "Malay"
+          - option "Malayalam"
+          - option "Maltese"
+          - option "Maori"
+          - option "Marathi"
+          - option "Meiteilon (Manipuri)"
+          - option "Mizo"
+          - option "Mongolian"
+          - option "Myanmar (Burmese)"
+          - option "Nepali"
+          - option "Netherlands"
+          - option "Norwegian"
+          - option "Odia (Oriya)"
+          - option "Oromo"
+          - option "Pashto"
+          - option "Persian"
+          - option "Polish"
+          - option "Portuguese"
+          - option "Punjabi"
+          - option "Quechua"
+          - option "Romanian"
+          - option "Russian"
+          - option "Samoan"
+          - option "Sanskrit"
+          - option "Scots Gaelic"
+          - option "Sepedi"
+          - option "Serbian"
+          - option "Sesotho"
+          - option "Shona"
+          - option "Sindhi"
+          - option "Sinhala"
+          - option "Slovak"
+          - option "Slovenian"
+          - option "Somali"
+          - option "Spanish"
+          - option "Sundanese"
+          - option "Swahili"
+          - option "Swedish"
+          - option "Tajik"
+          - option "Tamil"
+          - option "Tatar"
+          - option "Telugu"
+          - option "Thai"
+          - option "Tigrinya"
+          - option "Tsonga"
+          - option "Turkish"
+          - option "Turkmen"
+          - option "Twi"
+          - option "Ukrainian"
+          - option "Urdu"
+          - option "Uyghur"
+          - option "Uzbek"
+          - option "Vietnamese"
+          - option "Welsh"
+          - option "Xhosa"
+          - option "Yiddish"
+          - option "Yoruba"
+          - option "Zulu"
+          - option "Abkhazian"
+          - option "Afar"
+          - option "Akan"
+          - option "Aragonese"
+          - option "Avaric"
+          - option "Avestan"
+          - option "Bashkir"
+          - option "Bihari"
+          - option "Bislama"
+          - option "Breton"
+          - option "Chamorro"
+          - option "Chechen"
+          - option "Chuvash"
+          - option "Cornish"
+          - option "Cree"
+          - option "Divehi"
+          - option "Dzongkha"
+          - option "Erzya"
+          - option "Faroese"
+          - option "Fijian"
+          - option "Ido"
+          - option "Inuktitut"
+          - option "Interlingua"
+          - option "Interlingue"
+          - option "Inupiak"
+          - option "Kalaallisut"
+          - option "Kanuri"
+          - option "Kashmiri"
+          - option "Kikuyu"
+          - option "Komi"
+          - option "Kumyk"
+          - option "Kwanyama"
+          - option "Lezghian"
+          - option "Limburgish"
+          - option "Luba-Katanga"
+          - option "Maldivian"
+          - option "Manx"
+          - option "Marshallese"
+          - option "Nauru"
+          - option "Navajo"
+          - option "Ndonga"
+          - option "North Ndebele"
+          - option "Northern Sami"
+          - option "Occitan"
+          - option "Ojibwe"
+          - option "Old Church Slavonic"
+          - option "Ossetian"
+          - option "Pali"
+          - option "Romansh"
+          - option "Rundi"
+          - option "Sango"
+          - option "Sardinian"
+          - option "Sichuan Yi"
+          - option "South Ndebele"
+          - option "Swati"
+          - option "Tahitian"
+          - option "Tibetan"
+          - option "Tonga"
+          - option "Tswana"
+          - option "Venda"
+          - option "Volapük"
+          - option "Walloon"
+          - option "Wolof"
+          - option "Zhuang"
+      - generic [ref=e286]:
+        - generic [ref=e287]:
+          - img [ref=e288]
+          - text: Dynamic Tools Map
+        - paragraph [ref=e291]: Enable, configure, or add custom integration tools that Beatrice can call during conversation.
+        - generic [ref=e292]:
+          - generic [ref=e293]
+          - generic [ref=e309]
+          - generic [ref=e325]
+          - generic [ref=e341]
+          - generic [ref=e357]
+          - generic [ref=e373]
+          - generic [ref=e389]
+          - generic [ref=e405]
+          - generic [ref=e421]
+          - generic [ref=e437]
+          - generic [ref=e453]
+          - generic [ref=e469]
+          - generic [ref=e485]
+          - generic [ref=e501]
+          - generic [ref=e517]
+          - generic [ref=e533]
+          - generic [ref=e549]
+          - generic [ref=e565]
+          - generic [ref=e581]
+          - generic [ref=e597]
+          - generic [ref=e613]
+          - generic [ref=e629]
+          - generic [ref=e645]
+          - generic [ref=e661]
+          - generic [ref=e677]
+          - generic [ref=e693]
+          - generic [ref=e709]
+          - generic [ref=e725]
+          - generic [ref=e741]
+          - generic [ref=e757]
+          - generic [ref=e773]
+          - generic [ref=e789]
+          - generic [ref=e805]
+          - generic [ref=e821]
+          - generic [ref=e837]
+          - generic [ref=e853]
+          - generic [ref=e869]
+        - button "Add Function Call Call" [ref=e885] [cursor=pointer]:
+          - img [ref=e886]
+          - text: Add Function Call Call
+      - generic [ref=e887]:
+        - generic [ref=e888]:
+          - img [ref=e889]
+          - text: Google Workspace Account
+        - paragraph [ref=e891]: Connect your Google Account to authorize all Workspace tools (Gmail, Calendar, Drive, Docs, Sheets, Tasks, Contacts). This stores your token securely in Firestore for function calling.
+        - generic [ref=e892]:
+          - generic [ref=e896]: Google Account Disconnected
+          - button "account_circle Connect Google Workspace" [ref=e897] [cursor=pointer]
+      - button "Save Settings" [ref=e900] [cursor=pointer]
+  - generic [ref=e901]:
+    - generic [ref=e902]:
+      - generic [ref=e903]: Activity History
+      - button [ref=e904] [cursor=pointer]:
+        - img [ref=e905]
+    - paragraph [ref=e909]: No recent history.
+  - generic [ref=e910]:
+    - generic [ref=e911]:
+      - generic [ref=e912]:
+        - img [ref=e913]
+        - generic [ref=e915]: Connect WhatsApp Channel
+      - button [ref=e916] [cursor=pointer]:
+        - img [ref=e917]
+    - generic [ref=e920]:
+      - generic [ref=e921]:
+        - generic [ref=e922]:
+          - generic [ref=e923]: 9:41
+          - generic [ref=e924]: 📶 🔋
+        - generic [ref=e925]:
+          - img [ref=e926]
+          - generic [ref=e928]: Connect WhatsApp Channel
+        - generic [ref=e930]:
+          - generic [ref=e931]
+          - button "Regenerate QR Code" [ref=e937] [cursor=pointer]
+      - generic [ref=e938]:
+        - paragraph [ref=e939]:
+          - text: 🔧
+          - strong [ref=e940]: Developer Callback Simulator
+        - button "Simulate Successful Scan/Pair" [ref=e942] [cursor=pointer]
+  - generic [ref=e943]:
+    - generic [ref=e944]:
+      - generic [ref=e945]: Supermarket Scanner
+      - button [ref=e946] [cursor=pointer]:
+        - img [ref=e947]
+    - generic [ref=e950]:
+      - img [ref=e952]
+      - generic [ref=e955]:
+        - generic [ref=e956]: Translate to
+        - combobox [ref=e957]:
+          - option "English" [selected]
+          - option "Dutch (Flemish)"
+          - option "French"
+          - option "German"
+          - option "Spanish"
+      - generic [ref=e958]:
+        - heading "Scan Simulator" [level=4] [ref=e959]
+        - generic [ref=e960]:
+          - button "🥛 Alpro Barista Oat Milk 5411188112920" [ref=e961] [cursor=pointer]
+          - button "🍪 Lotus Biscoff Cookies 5410126006152" [ref=e964] [cursor=pointer]
+          - button "🍺 Stella Artois Export Beer 5410228141447" [ref=e967] [cursor=pointer]
+  - generic [ref=e970]:
+    - generic [ref=e971]:
+      - generic [ref=e972]: Location Map
+      - button [ref=e973] [cursor=pointer]:
+        - img [ref=e974]
+    - generic [ref=e978]: Locating...
+  - generic [ref=e979]:
+    - generic [ref=e980]:
+      - generic [ref=e981]: Video Camera Call
+      - button [ref=e982] [cursor=pointer]:
+        - img [ref=e983]
+    - generic [ref=e986]:
+      - img [ref=e987]
+      - heading "Launch Interactive Camerawork" [level=3] [ref=e990]
+      - paragraph [ref=e991]: Share your webcam stream or mirror your desktop screens in real-time. Beatrice will analyze the frames and talk with you.
+      - button "Open Full Screen Video Camera" [ref=e992] [cursor=pointer]
+  - generic [ref=e993]:
+    - generic [ref=e994]:
+      - generic [ref=e995]: Google Drive Picker
+      - button [ref=e996] [cursor=pointer]:
+        - img [ref=e997]
+    - generic [ref=e1000]:
+      - button "Launch Live Google Picker" [ref=e1001] [cursor=pointer]:
+        - img [ref=e1002]
+        - text: Launch Live Google Picker
+      - generic [ref=e1005]:
+        - img [ref=e1006]
+        - textbox "Search in Drive..." [ref=e1009]
+      - heading "Recent Files" [level=4] [ref=e1010]
+      - generic [ref=e1011]:
+        - generic [ref=e1012] [cursor=pointer]:
+          - img [ref=e1013]
+          - generic [ref=e1017]
+        - generic [ref=e1020] [cursor=pointer]:
+          - img [ref=e1021]
+          - generic [ref=e1023]
+        - generic [ref=e1026] [cursor=pointer]:
+          - img [ref=e1027]
+          - generic [ref=e1030]
+  - generic [ref=e1033]:
+    - generic [ref=e1034]:
+      - generic [ref=e1035]: Integrations
+      - button [ref=e1036] [cursor=pointer]:
+        - img [ref=e1037]
+    - generic [ref=e1040]:
+      - paragraph [ref=e1041]: "Customize which capabilities and Google Workspace APIs Beatrice has permission to invoke during this session:"
+      - generic [ref=e1042]:
+        - generic [ref=e1043]:
+          - generic [ref=e1044]
+          - button "Disable" [ref=e1049] [cursor=pointer]
+        - generic [ref=e1050]:
+          - generic [ref=e1051]
+          - button "Disable" [ref=e1056] [cursor=pointer]
+        - generic [ref=e1057]:
+          - generic [ref=e1058]
+          - button "Disable" [ref=e1063] [cursor=pointer]
+        - generic [ref=e1064]:
+          - generic [ref=e1065]
+          - button "Disable" [ref=e1070] [cursor=pointer]
+        - generic [ref=e1071]:
+          - generic [ref=e1072]
+          - button "Disable" [ref=e1077] [cursor=pointer]
+        - generic [ref=e1078]:
+          - generic [ref=e1079]
+          - button "Disable" [ref=e1084] [cursor=pointer]
+        - generic [ref=e1085]:
+          - generic [ref=e1086]
+          - button "Disable" [ref=e1091] [cursor=pointer]
+        - generic [ref=e1092]:
+          - generic [ref=e1093]
+          - button "Disable" [ref=e1098] [cursor=pointer]
+        - generic [ref=e1099]:
+          - generic [ref=e1100]
+          - button "Disable" [ref=e1105] [cursor=pointer]
+        - generic [ref=e1106]:
+          - generic [ref=e1107]
+          - button "Disable" [ref=e1112] [cursor=pointer]
+        - generic [ref=e1113]:
+          - generic [ref=e1114]
+          - button "Disable" [ref=e1119] [cursor=pointer]
+        - generic [ref=e1120]:
+          - generic [ref=e1121]
+          - button "Disable" [ref=e1126] [cursor=pointer]
+        - generic [ref=e1127]:
+          - generic [ref=e1128]
+          - button "Disable" [ref=e1133] [cursor=pointer]
+        - generic [ref=e1134]:
+          - generic [ref=e1135]
+          - button "Disable" [ref=e1140] [cursor=pointer]
+        - generic [ref=e1141]:
+          - generic [ref=e1142]
+          - button "Disable" [ref=e1147] [cursor=pointer]
+        - generic [ref=e1148]:
+          - generic [ref=e1149]
+          - button "Disable" [ref=e1154] [cursor=pointer]
+        - generic [ref=e1155]:
+          - generic [ref=e1156]
+          - button "Disable" [ref=e1161] [cursor=pointer]
+        - generic [ref=e1162]:
+          - generic [ref=e1163]
+          - button "Disable" [ref=e1168] [cursor=pointer]
+        - generic [ref=e1169]:
+          - generic [ref=e1170]
+          - button "Disable" [ref=e1175] [cursor=pointer]
+        - generic [ref=e1176]:
+          - generic [ref=e1177]
+          - button "Disable" [ref=e1182] [cursor=pointer]
+        - generic [ref=e1183]:
+          - generic [ref=e1184]
+          - button "Disable" [ref=e1189] [cursor=pointer]
+        - generic [ref=e1190]:
+          - generic [ref=e1191]
+          - button "Disable" [ref=e1196] [cursor=pointer]
+        - generic [ref=e1197]:
+          - generic [ref=e1198]
+          - button "Disable" [ref=e1203] [cursor=pointer]
+        - generic [ref=e1204]:
+          - generic [ref=e1205]
+          - button "Disable" [ref=e1210] [cursor=pointer]
+        - generic [ref=e1211]:
+          - generic [ref=e1212]
+          - button "Disable" [ref=e1217] [cursor=pointer]
+        - generic [ref=e1218]:
+          - generic [ref=e1219]
+          - button "Disable" [ref=e1224] [cursor=pointer]
+        - generic [ref=e1225]:
+          - generic [ref=e1226]
+          - button "Disable" [ref=e1231] [cursor=pointer]
+        - generic [ref=e1232]:
+          - generic [ref=e1233]
+          - button "Disable" [ref=e1238] [cursor=pointer]
+        - generic [ref=e1239]:
+          - generic [ref=e1240]
+          - button "Disable" [ref=e1245] [cursor=pointer]
+        - generic [ref=e1246]:
+          - generic [ref=e1247]
+          - button "Disable" [ref=e1252] [cursor=pointer]
+        - generic [ref=e1253]:
+          - generic [ref=e1254]
+          - button "Disable" [ref=e1259] [cursor=pointer]
+        - generic [ref=e1260]:
+          - generic [ref=e1261]
+          - button "Disable" [ref=e1266] [cursor=pointer]
+        - generic [ref=e1267]:
+          - generic [ref=e1268]
+          - button "Disable" [ref=e1273] [cursor=pointer]
+        - generic [ref=e1274]:
+          - generic [ref=e1275]
+          - button "Disable" [ref=e1280] [cursor=pointer]
+        - generic [ref=e1281]:
+          - generic [ref=e1282]
+          - button "Disable" [ref=e1287] [cursor=pointer]
+        - generic [ref=e1288]:
+          - generic [ref=e1289]
+          - button "Disable" [ref=e1294] [cursor=pointer]
+        - generic [ref=e1295]:
+          - generic [ref=e1296]
+          - button "Disable" [ref=e1301] [cursor=pointer]
+  - generic [ref=e1303]:
+    - img "Eburon Logo" [ref=e1305]
+    - heading "Login" [level=2] [ref=e1306]
+    - paragraph [ref=e1307]: Welcome back to Eburon
+    - generic [ref=e1308]:
+      - generic [ref=e1309]:
+        - img
+        - textbox "Email" [ref=e1310]
+      - generic [ref=e1311]:
+        - img
+        - textbox "Password" [ref=e1312]
+      - button "Sign in" [ref=e1313] [cursor=pointer]
+    - generic [ref=e1315]: or
+    - button "G Continue with Google" [ref=e1316] [cursor=pointer]:
+      - generic [ref=e1317]: G
+      - text: Continue with Google
+    - generic [ref=e1318]:
+      - generic [ref=e1319]:
+        - img [ref=e1320]
+        - text: Google Workspace Sync
+      - generic [ref=e1322]: Requires Read/Write permissions for Gmail, Drive, Calendar, and Tasks to enable full automation.
+    - generic [ref=e1323]: Don't have an account? Sign up
