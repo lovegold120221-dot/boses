@@ -1,0 +1,7 @@
+{
+  "name": "Eburon Sandbox Agent",
+  "description": "A voice-activated elite corporate document generation engine.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
